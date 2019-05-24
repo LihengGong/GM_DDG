@@ -16,6 +16,9 @@
 *.dylib
 *.dll
 
+# MacOS
+.DS_Store
+
 # Fortran module files
 *.mod
 *.smod
@@ -30,3 +33,12 @@
 *.exe
 *.out
 *.app
+
+# vscode
+.vscode
+
+# external
+external/
+
+# build
+build/
